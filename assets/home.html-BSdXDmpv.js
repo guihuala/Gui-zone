@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./app-tj2eSLSQ.js";const s={};function a(c,r){return t(),o("div")}const n=e(s,[["render",a],["__file","home.html.vue"]]),i=JSON.parse('{"path":"/docs/series/home.html","title":"项目心得","lang":"en-US","frontmatter":{"title":"项目心得","date":"2024/08/14"},"headers":[],"git":{},"filePathRelative":"docs/series/home.md"}');export{n as comp,i as data};
